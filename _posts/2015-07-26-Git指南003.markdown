@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Git的远程操作
-category: Git使用教程
-comments: true
+date  2015-07-26 00:10:00 +0700
+categories: uncategorized
+tags:
+- Git使用教程
 ---
 
 ## 一，Git的远程操作
@@ -307,11 +309,3 @@ $ git push origin --tags
 ```
 
 好了，git介绍到现在，你应该可以去尝试一下，git的强大威力，如果你非常不喜欢命令行方式，推荐一款git的图形化操作的软件`Sourcetree`,但是前提是，你要明白git的这次基本操作！
-
-
-
-
-
-
-
-

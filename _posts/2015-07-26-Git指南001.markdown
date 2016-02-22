@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Git基础概览
-category: Git使用教程
-comments: true
+date  2015-07-26 00:05:00 +0700
+categories: uncategorized
+tags:
+- Git使用教程
 ---
 
 ## 一，Git简介
@@ -117,5 +119,3 @@ git clean [options] 一般会加上参数-df，-d表示包含目录，-f表示�
 ```
 
 到此为止，仅对git做了非常小部分的梳理（侧重从整体上理解，还有很多功能没介绍，如果想看更详细的操作指令，可以去 [Git与Repo入门](http://www.cnblogs.com/angeldevil/p/3238470.html)），下一篇博客主要讲述常用git分支的操作，你可以尝试到git的无穷魅力啦！
-
-

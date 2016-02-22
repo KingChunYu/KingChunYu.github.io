@@ -1,8 +1,10 @@
 ---
 layout: post
 title: IOS中的MVC模式
-category: IOS设计模式
-comments: true
+date  2015-08-02 00:00:00 +0700
+categories: uncategorized
+tags:
+- IOS设计模式
 ---
 
 ## MVC介绍：
@@ -112,16 +114,12 @@ V不能拥有它所要显示的数据，记住这点非常重要。V希望别人
 例如：如下操作都是滴
 
 ```
-- (BOOL)tabBarController:(UITabBarController *)tabBarController 
+- (BOOL)tabBarController:(UITabBarController *)tabBarController
 shouldSelectViewController:(UIViewController *)viewController NS_AVAILABLE_IOS(3_0);
-- (void)tabBarController:(UITabBarController *)tabBarController 
+- (void)tabBarController:(UITabBarController *)tabBarController
 didSelectViewController:(UIViewController *)viewController;
 
 ```
 这里就是以UITabBarController的代理为例子。
 
 好了，到了这里，应该明白了，MVC在ios中，到底用到了哪里了吧Y(^_^)Y！
-
-
-
-

@@ -1,8 +1,10 @@
 ---
 layout: post
 title: IOS中的代理模式
-category: IOS设计模式
-comments: true
+date  2015-08-01 00:00:00 +0700
+categories: uncategorized
+tags:
+- IOS设计模式
 ---
 
 ## 代理模式介绍：
@@ -163,4 +165,3 @@ return 0;
 另外需要注意的是，ios开发中很多空间，如UITableView，collectionview等都利用的这种代理模式，一般充当代理角色的事Controller！如有兴趣，可以自己去研究一下！本篇文章主要介绍这种思想！
 
 好了，ios中的代理模式先介绍到这里，下一篇博客介绍ios中的MVC设计模式，敬请关注！
-

@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Git－flow开发流程
-category: Git使用教程
-comments: true
+date  2015-07-26 00:00:00 +0700
+categories: uncategorized
+tags:
+- Git使用教程
 ---
 
 ## Git－flow简介
@@ -96,6 +98,3 @@ $ git flow release start v0.1.0
 最后一件让git-flow显得威武的事情是它处理热修复（即时的BugFix）的能力，你可以像其他分支一样地创建和完成一个热修复分支，区别是它基于master分支，因此你可以在产品出现问题时快速修复，然后通过”finish”命令把修改合并回master和develop分支。
 
 更加详细和生动的操作，请参阅[git－flow](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) 里面更加生动的解释了怎样去操作！
-
-
-

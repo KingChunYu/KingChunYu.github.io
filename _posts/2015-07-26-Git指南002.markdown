@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Git分支的使用
-category: Git使用教程
-comments: true
+date  2015-07-26 00:09:00 +0700
+categories: uncategorized
+tags:
+- Git使用教程
 ---
 
 ## 一，Git分支简介
@@ -45,7 +47,7 @@ comments: true
 
 合并某分支到当前分支：git merge name
 
-删除分支：git branch -d 
+删除分支：git branch -d
 
 
 ```
@@ -82,13 +84,3 @@ lalalal
 ```
 
 好了，关于分支这一块，就先介绍的道理，下一片博客，主要介绍有关git本地和远程操作(怎样把本地修改推送到远程，怎样从远程克隆仓库等)的一些常用指令和知识。
-
-
-
-
-
-
-
-
-
-

@@ -1,8 +1,10 @@
 ---
 layout: post
 title: IOS中的单例模式
-category: IOS设计模式
-comments: true
+date  2015-08-02 00:00:00 +0700
+categories: uncategorized
+tags:
+- IOS设计模式
 ---
 
 ## 单例模式介绍：
@@ -119,6 +121,3 @@ return 0;
 
 
 好了，单例模式比较简单，就先总结到这里，下一篇应该是关于MVC设计模式的总结！keep moving！！
-
-
-
