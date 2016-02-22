@@ -12,9 +12,9 @@ description: > # this means to ignore newlines until "baseurl:"
   All about Spaghetti-san Project
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://spaghetti.ga" # the base hostname & protocol for your site
-twitter_username: axlyody
-github_username:  spaghetti-san
-facebook_username:  axlyody
+twitter_username: 人间一小雨
+github_username:  KingChunYu
+facebook_username:  人间一小雨
 
 # Gems
 gems:
