@@ -3,8 +3,7 @@ layout: post
 title: GPU渲染管线
 date  2015-08-08 00:00:00 +0700
 categories: uncategorized
-tags:
-- hello
+
 ---
 
 ## GPU渲染管线：

@@ -3,8 +3,7 @@ layout: post
 title: Git的远程操作
 date  2015-07-26 00:10:00 +0700
 categories: uncategorized
-tags:
-- hello
+
 ---
 
 ## 一，Git的远程操作

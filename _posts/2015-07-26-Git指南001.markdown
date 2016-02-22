@@ -3,8 +3,7 @@ layout: post
 title: Git基础概览
 date  2015-07-26 00:05:00 +0700
 categories: uncategorized
-tags:
-- hello
+
 ---
 
 ## 一，Git简介
